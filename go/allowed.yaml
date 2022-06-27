@@ -1,0 +1,52 @@
+---
+- - :permit
+  - MIT
+  - :who: Yan Lytovka
+    :why: allow
+    :versions: []
+    :when: 2022-06-22 18:08:54.098290000 Z
+- - :permit
+  - NEW BSD
+  - :who: Yan Lytovka
+    :why: allow
+    :versions: []
+    :when: 2022-06-22 18:09:17.925847000 Z
+- - :permit
+  - Apache 2.0
+  - :who: Yan Lytovka
+    :why: allow
+    :versions: []
+    :when: 2022-06-22 18:09:29.787276000 Z
+- - :permit
+  - Simplified BSD
+  - :who: Yan Lytovka
+    :why: allow
+    :versions: []
+    :when: 2022-06-22 18:12:22.417425000 Z
+- - :permit
+  - ISC
+  - :who: Yan Lytovka
+    :why: allow
+    :versions: []
+    :when: 2022-06-22 18:12:40.893764000 Z
+- - :approve
+  - github.com/acretrader/lib
+  - :who:
+    :why:
+    :versions:
+    - v0.0.0-20210322151756-6c1c0ebef17f
+    :when: 2022-06-22 18:26:49.707911000 Z
+- - :approve
+  - github.com/avct/uasurfer
+  - :who:
+    :why:
+    :versions:
+    - v0.0.0-20190308134847-43c6f9a90eeb
+    :when: 2022-06-22 18:27:17.581080000 Z
+- - :approve
+  - github.com/webdeveloppro/validating
+  - :who:
+    :why:
+    :versions:
+    - v0.0.0-20220330151039-c5f44403a66f
+    :when: 2022-06-22 18:27:39.785164000 Z
