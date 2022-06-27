@@ -1,4 +1,5 @@
 ---
+# Permit licenses
 - - :permit
   - Mozilla Public License 2.0
   - :who:
@@ -35,6 +36,8 @@
     :why: allow
     :versions: []
     :when: 2022-06-22 18:12:40.893764000 Z
+
+# Permit acretrader github repo dependency
 - - :approve
   - github.com/acretrader/lib
   - :who:
@@ -63,3 +66,24 @@
     :versions:
     - v0.0.0-20211202144528-02bae884b69c
     :when: 2022-06-27 07:54:49.487583211 Z
+- - :approve
+  - github.com/acretrader/gonorthcapital
+  - :who:
+    :why:
+    :versions:
+    - v0.0.0-20220214093039-79fcceaf6f68
+    :when: 2022-06-27 08:29:57.067195631 Z
+- - :approve
+  - github.com/acretrader/gosift
+  - :who:
+    :why:
+    :versions:
+    - v0.0.0-20191001113443-e290c2570a7d
+    :when: 2022-06-27 08:30:10.609538637 Z
+- - :approve
+  - github.com/acretrader/lib
+  - :who:
+    :why:
+    :versions:
+    - v0.0.0-20220405040601-3b453dac121a
+    :when: 2022-06-27 08:30:42.519886013 Z
