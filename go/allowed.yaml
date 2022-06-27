@@ -1,5 +1,11 @@
 ---
 - - :permit
+  - Mozilla Public License 2.0
+  - :who:
+    :why:
+    :versions: []
+    :when: 2022-06-27 07:51:57.369963549 Z
+- - :permit
   - MIT
   - :who: Yan Lytovka
     :why: allow
@@ -50,3 +56,10 @@
     :versions:
     - v0.0.0-20220330151039-c5f44403a66f
     :when: 2022-06-22 18:27:39.785164000 Z
+- - :approve
+  - github.com/acretrader/lib
+  - :who:
+    :why: Acretrader GitHub
+    :versions:
+    - v0.0.0-20211202144528-02bae884b69c
+    :when: 2022-06-27 07:54:49.487583211 Z
