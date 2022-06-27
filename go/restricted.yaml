@@ -1,0 +1,25 @@
+---
+- - :restrict
+  - GPL
+  - :who:
+    :why:
+    :versions: []
+    :when: 2022-06-27 07:17:13.865771208 Z
+- - :restrict
+  - AGPL
+  - :who:
+    :why:
+    :versions: []
+    :when: 2022-06-27 07:17:13.865771208 Z
+- - :restrict
+  - JRL
+  - :who:
+    :why:
+    :versions: []
+    :when: 2022-06-27 07:17:13.865771208 Z
+- - :restrict
+  - AFPL
+  - :who:
+    :why:
+    :versions: []
+    :when: 2022-06-27 07:17:13.865771208 Z
